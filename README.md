@@ -1,4 +1,4 @@
-# todolist
+# todolist 
 App created with Vue.js and Bootstrap5 📅
 
 - Main branch - Contains the sample application used for the testing.
@@ -11,3 +11,10 @@ App created with Vue.js and Bootstrap5 📅
 Testing files are under cypress/integration/todolist folder.
 
 - [Documentation](https://docs.cypress.io/guides/overview/why-cypress#In-a-nutshell)
+
+## Other Resources
+- https://codelikethis.com/lessons/javascript/cypress
+- https://docs.cypress.io/guides/getting-started/installing-cypress
+- https://www.mikenikles.com/blog/develop-cypress-end-to-end-tests-on-gitpod-io-virtual-desktop-included
+- https://docs.cypress.io/guides/core-concepts/introduction-to-cypress
+- https://example.cypress.io/
